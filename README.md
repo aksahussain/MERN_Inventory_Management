@@ -1,6 +1,6 @@
 # Inventory Management System (MERN Stack)
 
-## Final Year Engineering Project
+## Final Year BCA Project
 A complete, industry-level Inventory Management System built with MongoDB, Express.js, React.js, and Node.js.
 Features Role-Based Access Control, Stock Tracking, Barcode Generation, PDF Invoicing, Eco-Analytics, and AI-powered Chat.
 
@@ -67,9 +67,3 @@ inventory-management-system/
 - You can create any account via Signup page.
 - Select "Admin" role during signup to test all features.
 
----
-**interview Talking Points:**
-- Explain JWT implementation (HTTP interceptors).cd inventory-management-system/frontend
-- Discuss Mongoose aggregation for Analytics.
-- Highlight scalable component architecture.
-- Mention "Eco Analytics" as a unique value prop.
